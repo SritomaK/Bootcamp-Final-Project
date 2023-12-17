@@ -18,3 +18,16 @@ https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset/data
 - Evaluation: The models were assessed using metrics like accuracy, precision, recall, and F1-score.
 
 - Model Validation with New Restaurant Data: To ensure the robustness and practical applicability of our models, they were validated using a separate dataset of newly established restaurants. This step was crucial to test the model's predictive power in real-world scenarios and to refine it for better accuracy in forecasting the success of new entries in the market.
+## Technologies Used
+- Python
+- Pandas, NumPy (Data Manipulation)
+- Matplotlib, Seaborn (Data Visualization)
+- Scikit-learn (Model Building and Evaluation)
+- Jupyter Notebook (Development Environment)
+## Results
+The project's investigation into the Zomato dataset yielded insightful outcomes, particularly regarding the predictors of restaurant success. Key findings are summarized as follows:
+
+Highly Predictive Factors: The model identified cost for two, cuisine type, and services like online order and table booking as the most influential factors in determining a restaurant's success on Zomato. These elements showed a significant correlation with customer popularity and satisfaction.
+
+Model Performance: The predictive model Random Forest, leveraging these key determinants, exhibited fairly strong accuracy in estimating a restaurant's potential success. Their performance was particularly notable in scenarios involving the introduction of new restaurants on the platform.
+
