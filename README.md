@@ -4,3 +4,17 @@ The primary objective of this project was to unravel the factors driving the suc
 ## Data Source
 The dataset was sourced from -
 https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset/data
+## Project Components
+- Data Collection: Restaurant data from Zomato was obtained, focusing on key attributes like ratings, location, cuisine, and price range.
+
+- Data Preprocessing: The dataset underwent cleaning, normalization, and transformation to prepare it for analysis.
+
+- Exploratory Data Analysis (EDA): Conducted thorough EDA to understand the distribution of data and identify patterns.
+
+- Feature Engineering: Created new features that could potentially influence a restaurant's success.
+
+- Model Building: Several predictive models were built and evaluated to forecast the success of a restaurant.
+
+- Evaluation: The models were assessed using metrics like accuracy, precision, recall, and F1-score.
+
+- Model Validation with New Restaurant Data: To ensure the robustness and practical applicability of our models, they were validated using a separate dataset of newly established restaurants. This step was crucial to test the model's predictive power in real-world scenarios and to refine it for better accuracy in forecasting the success of new entries in the market.
