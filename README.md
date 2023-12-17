@@ -40,7 +40,7 @@ The project's investigation into the Zomato dataset yielded insightful outcomes,
 While the project provided valuable insights, it also encountered certain limitations:
 - Data Scope: The dataset primarily included urban restaurants, potentially limiting the applicability of findings to rural or less densely populated areas.
 - Temporal Dynamics: The project did not account for temporal variations, such as changes in customer preferences or seasonal effects, which could impact restaurant success.
-Subjectivity in Ratings: Ratings are subjective and can be influenced by factors beyond the restaurant's control, like customer mood or individual preferences.
+- Subjectivity in Ratings: Ratings are subjective and can be influenced by factors beyond the restaurant's control, like customer mood or individual preferences.
 
 ## Future work can focus on:
 - Expanding the Dataset: Incorporating data from a wider range of locations and different periods to enhance the model's robustness.
